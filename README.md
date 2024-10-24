@@ -1,4 +1,4 @@
-# CSCI5709 Project | Travel Bae | Group - 15
+# Travel Bae | Travelling is now easy
 
 ```
 Travel Bae:
